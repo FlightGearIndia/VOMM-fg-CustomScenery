@@ -1,0 +1,34 @@
+# pylons_e080n10_e080n13_4266456
+# do not edit below this line
+# Last Written Fri Feb  7 16:10:01 2020
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 80.12618 13.38679 15.27 318.996
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 80.12551 13.40003 14.52 328.563
+# END pylons_e080n10_e080n13_4266456
+# pylons_e080n10_e080n13_4266457
+# do not edit below this line
+# Last Written Sat Feb  8 04:36:07 2020
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 80.12618 13.38679 15.27 331.038
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 80.12650 13.38662 14.55 341.713
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 80.12700 13.38656 14.62 321.566
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 80.12791 13.38422 15.04 290.859
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 80.12883 13.38186 14.87 290.448
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 80.12947 13.38014 15.89 290.473
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 80.13108 13.37602 15.31 291.183
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 80.12551 13.40003 14.52 319.753
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 80.12698 13.39882 15.46 294.072
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 80.12693 13.39705 15.26 268.971
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 80.12691 13.39457 15.01 269.552
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 80.12689 13.39235 14.75 269.163
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 80.12684 13.38999 14.32 268.912
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 80.12680 13.38777 14.44 268.967
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 80.12675 13.38527 14.76 270.824
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 80.12684 13.38353 15.00 272.424
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 80.12691 13.38161 15.27 272.21
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 80.12700 13.37932 15.51 285.509
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 80.12819 13.37721 15.17 298.251
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 80.12910 13.37551 15.41 297.768
+OBJECT_BUILDING_MESH_DETAILED e080n10_e080n13_4266457cables00001.ac 80.12940 13.38227 15.33 90
+OBJECT_BUILDING_MESH_DETAILED e080n10_e080n13_4266457cables00002.ac 80.12624 13.39619 14.99 90
+# END pylons_e080n10_e080n13_4266457
