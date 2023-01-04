@@ -3,5 +3,13 @@
   <version>1</version>
   <parkingList>
         <Parking index="0" type="gate" name="Ramp" lat="N12 59.039094" lon="E80 9.877164" heading="156"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="cargo-1" lat="N12 59.51844" lon="E80 10.8088" heading="156"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="cargo-2" lat="N12 59.5124" lon="E80 10.79406" heading="156"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="cargo-3" lat="N12 59.50416" lon="E80 10.77808" heading="156"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="cargo-4" lat="N12 59.48833" lon="E80 10.75923" heading="156"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="cargo-5" lat="N12 59.48048" lon="E80 10.73833" heading="156"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="cargo-6" lat="N12 59.49928" lon="E80 9.7019" heading="156"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="cargo-8" lat="N12 59.45856" lon="E80 9.67438" heading="140"  radius="44" airlineCodes="" />
+
  </parkingList>
 </groundnet>
