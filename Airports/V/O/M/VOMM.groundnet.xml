@@ -8,8 +8,15 @@
         <Parking index="0" type="gate" name="cargo-3" lat="N12 59.50416" lon="E80 10.77808" heading="156"  radius="44" airlineCodes="" />
         <Parking index="0" type="gate" name="cargo-4" lat="N12 59.48833" lon="E80 10.75923" heading="156"  radius="44" airlineCodes="" />
         <Parking index="0" type="gate" name="cargo-5" lat="N12 59.48048" lon="E80 10.73833" heading="156"  radius="44" airlineCodes="" />
-        <Parking index="0" type="gate" name="cargo-6" lat="N12 59.49928" lon="E80 9.7019" heading="156"  radius="44" airlineCodes="" />
-        <Parking index="0" type="gate" name="cargo-8" lat="N12 59.45856" lon="E80 9.67438" heading="140"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="cargo-6" lat="N12 59.49928" lon="E80 10.7019" heading="156"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="cargo-8" lat="N12 59.45856" lon="E80 10.67438" heading="140"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="cargo-9" lat="N12 59.42975" lon="E80 10.64675" heading="140"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="cargo-10" lat="N12 59.41238" lon="E80 10.6081" heading="140"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="T2" lat="N12 59.81101" lon="E80 10.7796" heading="030"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="T3" lat="N12 59.79635" lon="E80 10.8097" heading="030"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="T4" lat="N12 59.7812" lon="E80 10.83896" heading="030"  radius="44" airlineCodes="" />
+
+
 
  </parkingList>
 </groundnet>
