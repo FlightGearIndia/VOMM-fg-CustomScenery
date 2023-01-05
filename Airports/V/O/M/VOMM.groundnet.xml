@@ -16,10 +16,10 @@
         <Parking index="0" type="gate" name="T3" lat="N12 59.79635" lon="E80 10.8097" heading="030"  radius="44" airlineCodes="" />
         <Parking index="0" type="gate" name="T4" lat="N12 59.7812" lon="E80 10.83896" heading="030"  radius="44" airlineCodes="" />
         <Parking index="0" type="gate" name="19" lat="N12 59.10048" lon="E80 10.0498" heading="030"  radius="44" airlineCodes="" />
-        <Parking index="0" type="gate" name="20" lat="N12 59.09265" lon="E80 10.02833" heading="030"  radius="44" airlineCodes="" />
-        <Parking index="0" type="gate" name="21" lat="N12 59.08449" lon="E80 10.00699" heading="030"  radius="44" airlineCodes="" />
-        <Parking index="0" type="gate" name="22" lat="N12 59.07633" lon="E80 09.98566" heading="030"  radius="44" airlineCodes="" />
-        <Parking index="0" type="gate" name="23" lat="N12 59.06778" lon="E80 09.96443" heading="030"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="20" lat="N12 59.09265" lon="E80 10.02833" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="21" lat="N12 59.08449" lon="E80 10.00699" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="22" lat="N12 59.07633" lon="E80 09.98566" heading="160"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="23" lat="N12 59.06778" lon="E80 09.96443" heading="160"  radius="44" airlineCodes="" />
 
 
 
